@@ -1,16 +1,32 @@
-## Hi there 👋
+# 😼 Zackig!
 
-<!--
-**enekarab/enekarab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻 **State-Certified Commercial Assistant in Information Processing**  
+💻 **Junior Developer**  
+🦁 **Galatasaray Fan** – 🟡🔴 Cimbom’un izinde  
+🪴 **Tech grows like plants — I just keep watering it.**  
+✨ Always learning, always creating.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Languages I speak:
+- Turkish 🇹🇷  
+- English 🇬🇧  
+- German 🇩🇪  
+- Spanish 🇪🇸  
+
+---
+
+### 💡 About Me
+I’m currently studying at **Leo-Statz-Berufskolleg**, and on my way to becoming a **state-certified IT professional**.  
+I enjoy:
+- Sketching ✏️  
+- Reading books 📚  
+- Watching movies 🎬  
+- Writing code 💻  
+- Fixing tech devices 🛠️  
+
+I love technology and everything around it — from software to hardware.  
+
+---
+
+> 🧠 “Code is like art. You fix the bugs, and you create the beauty.”  
