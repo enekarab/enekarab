@@ -2,7 +2,7 @@
 
 👨🏻‍💻 **State-Certified Commercial Assistant in Information Processing**  
 💻 **Junior Developer**  
-🦁 **Galatasaray Fan** – 🟡🔴 Cimbom’un izinde  
+🦁 **Galatasaray Fan** – 🟡🔴
 🪴 **Tech grows like plants — I just keep watering it.**  
 ✨ Always learning, always creating.  
 
